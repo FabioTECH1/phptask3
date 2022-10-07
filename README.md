@@ -9,5 +9,4 @@ Gender
 Country
 ```
 
-Saves the user data into a file called userdata.csv
-Returns the data submitted to the users using the print_r method.
+Saves the user data into a file called userdata.csv then returns the data submitted to the users using the print_r method.
